@@ -14,6 +14,8 @@ In this part of the demo we will be seeing what we can do GitHub hosting, Ruby a
 2. Install [Jekyll](https://jekyllrb.com/), create the initial website and do some basic config.
 3. Create an initial post.
 4. Add [Giscus](https://github.com/giscus/giscus) [Better](https://giscus.app/) comments to the project.
+5. Add Google Analytics and a custom GitHub action.
+6. Added 
 
 ![A Galaxy.](/assets/posts/a-galaxy.png)
 
